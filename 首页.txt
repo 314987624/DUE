@@ -1,0 +1,25 @@
+首页
+
+    hot :
+        Recommended more连接�?        Hot Movies more连接�?        Hot Books more连接�?        Hot Celebrities more连接�?        Hot Places more连接�?        下方滚动连接：http://m66.tvezu.com/culture/api/index.php/discover/listall?type=home&page=1&count=10
+
+   
+
+ Movies
+        tags more连接�?        Recommended more连接�?        New Released more连接�?        Highlight more连接�?        下方滚动连接：http://m66.tvezu.com/culture/api/index.php/discover/listall?type=move&page=1&count=10
+
+   
+
+ Books
+        tags more连接�?        Recommended more连接�?        New Released more连接�?        Highlight more连接�?        下方滚动连接：http://m66.tvezu.com/culture/api/index.php/discover/listall?type=books&page=1&count=10
+
+   
+
+ Celebrities
+        tags more连接�?        Recommended more连接�?        New Added more连接�?        Highlight more连接�?        下方滚动连接：http://m66.tvezu.com/culture/api/index.php/discover/listall?type=people&page=1&count=10
+
+  
+
+  Places
+        tags more连接�?        Recommended more连接�?        New Added more连接�?        Highlight more连接�?        下方滚动连接：http://m66.tvezu.com/culture/api/index.php/discover/listall?type=people&page=1&count=10
+

@@ -1,0 +1,64 @@
+Discover页：
+
+    hot :
+   Recommended more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=home&type=recommended&count=20&page=1
+       
+ Hot Movies more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=home&type=hot_movies&count=20&page=1
+       
+ Hot Books more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=home&type=hot_works&count=20&page=1
+        
+Hot Celebrities more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=home&type=hot_people&count=20&page=1
+        
+Hot Places more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=home&type=hot_chorography&count=20&page=1
+       
+ 下方滚动连接：http://m66.tvezu.com/culture/api/index.php/discover/listall?type=home&page=1&count=20
+
+
+    
+Movies
+  tags more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=movies&type=tags&count=20&page=1
+       
+ Recommended more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=movies&type=recmmended&count=20&page=1
+       
+ New Released more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=movies&type=new_released&count=20&page=1
+       
+ Highlight more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=movies&type=highlight&count=20&page=1
+        
+下方滚动连接：http://m66.tvezu.com/culture/api/index.php/discover/listall?type=moves&page=1&count=20
+
+    Books
+        
+tags more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=works&type=tags&count=20&page=1
+        
+Recommended more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=works&type=recmmended&count=20&page=1
+       
+ New Released more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=works&type=new_released&count=20&page=1
+       
+ Highlight more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=works&type=highlight&count=20&page=1
+       
+ 下方滚动连接：http://m66.tvezu.com/culture/api/index.php/discover/listall?type=books&page=1&count=20
+
+    Celebrities
+        
+tags more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=people&type=tags&count=20&page=1
+        
+Recommended more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=people&type=recmmended&count=20&page=1
+       
+ New Added more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=people&type=new_added&count=20&page=1
+       
+ Highlight more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=people&type=highlight&count=20&page=1
+        
+下方滚动连接：http://m66.tvezu.com/culture/api/index.php/discover/listall?type=people&page=1&count=20
+
+    Places
+        
+tags more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=chorography&type=tags&count=20&page=1
+       
+ Recommended more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=chorography&type=recmmended&count=20&page=1
+       
+ New Added more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=chorography&type=new_added&count=20&page=1
+        
+Highlight more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=chorography&type=highlight&count=20&page=1
+       
+ 下方滚动连接：http://m66.tvezu.com/culture/api/index.php/discover/listall?type=chorography&page=1&count=20
+
