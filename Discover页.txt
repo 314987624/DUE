@@ -1,6 +1,6 @@
 Discover页：
 
-    hot :
+ hot :
    Recommended more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=home&type=recommended&count=20&page=1
        
  Hot Movies more连接：http://m66.tvezu.com/culture/api/index.php/discover/more?channel=home&type=hot_movies&count=20&page=1
